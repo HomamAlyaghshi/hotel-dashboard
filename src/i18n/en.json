@@ -1,0 +1,13 @@
+{
+  "dashboard": "Dashboard",
+  "products": "Products",
+  "models": "Models",
+  "employees": "Employees",
+  "sales": "Sales",
+  "categories": "Categories",
+  "materials": "Materials",
+    "emptyData": "No data to show",
+    "addNew":"Add New",
+    "filter":"Filter by"
+
+}
